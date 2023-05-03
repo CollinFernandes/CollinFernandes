@@ -6,10 +6,10 @@
 <div align="center" width="50">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/749233228996673536)](https://discord.com/users/749233228996673536)
-
-    <p> <img alt="Discord" src="https://img.shields.io/static/v1?style=for-the-badge&message=Yuhki%230001&color=5865F2&logo=Discord&logoColor=FFFFFF&label="/> </p>
     
 <div align="center" width="50">
+<p> <img src="https://cdn.discordapp.com/banners/749233228996673536/fabd581177a4238403a865a0abd2381a.png?size=1024"/> </p>
+    
     <hr>
 <p>15 Year old Student from Germany<p>
 <h2>Expierenced with<h2>
