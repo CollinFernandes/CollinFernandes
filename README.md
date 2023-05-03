@@ -7,6 +7,8 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/749233228996673536)](https://discord.com/users/749233228996673536)
 
+    <p> <img alt="Discord" src="https://img.shields.io/static/v1?style=for-the-badge&message=Yuhki%230001&color=5865F2&logo=Discord&logoColor=FFFFFF&label="/> </p>
+    
 <div align="center" width="50">
     <hr>
 <p>15 Year old Student from Germany<p>
